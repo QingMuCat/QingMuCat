@@ -21,7 +21,7 @@
 - 社交账号
 
   -  [![QQ](https://img.shields.io/badge/QQ-1242550160-lightgrey?style=flat-square&logo=Tencent%20QQ&logoColor=white&labelColor=EB1923)](https://wpa.qq.com/msgrd?v=3&uin=1242550160&site=qq&menu=yes) 
-  -  [![bilibili](https://img.shields.io/badge/bilibili-%E9%B1%BC%E4%BB%99Fishroud-lightgrey?style=flat-square&logo=bilibili&logoColor=white&labelColor=00A1D6)](https://space.bilibili.com/295592609)
+  -  [![bilibili](https://img.shields.io/badge/bilibili-花心喵酱i-lightgrey?style=flat-square&logo=bilibili&logoColor=white&labelColor=00A1D6)](https://space.bilibili.com/295592609)
 
 
 美味しいは嬉しいです！
