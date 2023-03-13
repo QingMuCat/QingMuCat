@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![QingMuCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=QingMuCat&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 这里是青木猫，是一条咸猫，大学生在读,学硬件和软件死路一条（不是），快跑！！！！！
 一个废物，只会产出垃圾。
@@ -27,3 +26,4 @@
 
 
 美味しいは嬉しいです！
+[![QingMuCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=QingMuCat&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
