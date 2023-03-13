@@ -1,7 +1,54 @@
 ### Hi there 👋
 
+这里是青木猫，是一条咸猫，大学生在读
+
+
+- 我的编程习惯：
+  - 面向Google，百度
+  - 面向GitHub
+  - ~~面向ctrl+c/v~~
+  - 面向ChatGPT
+- 在学
+  -  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)  
+  -  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/) 
+  -  [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)   
+  -  [![Mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+
+- 正在使用
+
+  - [![Windows](https://img.shields.io/badge/Windows10-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/) [![vsc](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
+
+
+- 社交账号
+
+[![QQ](https://img.shields.io/badge/QQ-3334679655-lightgrey?style=flat-square&logo=Tencent%20QQ&logoColor=white&labelColor=EB1923)](https://wpa.qq.com/msgrd?v=3&uin=3334679655&site=qq&menu=yes)  [![Steam](https://img.shields.io/badge/Steam-Fishroud-lightgrey?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/profiles/76561198797703039/)   [![bilibili](https://img.shields.io/badge/bilibili-%E9%B1%BC%E4%BB%99Fishroud-lightgrey?style=flat-square&logo=bilibili&logoColor=white&labelColor=00A1D6)](https://space.bilibili.com/101267193)
+
+
+美味しいは嬉しいです！
+
+<a href="https://zh.moegirl.org.cn/index.php?title=%E4%BA%9A%E6%89%98%E8%8E%89" target="_blank">
+  
+  <img align="left" src="img/atri.png" width="300px" alt= "atri" title="atri" />
+</a>
+
+ <!-- steam-box start -->
+#### <a href="https://gist.github.com/dd3e3d30a8ddfe78411be0698796ba7b" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🛩️ War Thunder                      🕘 545 hrs 45 mins
+🔫 Counter-Strike: Global Offensive 🕘 377 hrs 10 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 367 hrs 18 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 323 hrs 16 mins
+🚓 Grand Theft Auto V               🕘 272 hrs 41 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
+
+[![Fishroud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fishroud&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
+
 <!--
-**QingMuCat/QingMuCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fishroud/Fishroud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
